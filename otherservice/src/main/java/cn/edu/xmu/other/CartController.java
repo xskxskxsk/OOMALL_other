@@ -1,8 +1,7 @@
-package cn.edu.xmu.other.controller;
+package cn.edu.xmu.other;
 
 import io.swagger.annotations.Api;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

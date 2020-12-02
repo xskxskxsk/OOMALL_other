@@ -17,7 +17,6 @@ public class CartDao {
     private ShoppingCartPoMapper shoppingCartPoMapper;
 
 
-
-
-
+    public void initialize() {
+    }
 }
